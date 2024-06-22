@@ -1,0 +1,13 @@
+D:\Projects\VB Projects\Calcu\bin\Debug\Calcu.exe.config
+D:\Projects\VB Projects\Calcu\bin\Debug\Calcu.exe
+D:\Projects\VB Projects\Calcu\bin\Debug\Calcu.pdb
+D:\Projects\VB Projects\Calcu\bin\Debug\Calcu.xml
+D:\Projects\VB Projects\Calcu\obj\Debug\Calcu.vbproj.AssemblyReference.cache
+D:\Projects\VB Projects\Calcu\obj\Debug\Calcu.vbproj.SuggestedBindingRedirects.cache
+D:\Projects\VB Projects\Calcu\obj\Debug\Calcu.Form1.resources
+D:\Projects\VB Projects\Calcu\obj\Debug\Calcu.Resources.resources
+D:\Projects\VB Projects\Calcu\obj\Debug\Calcu.vbproj.GenerateResource.cache
+D:\Projects\VB Projects\Calcu\obj\Debug\Calcu.vbproj.CoreCompileInputs.cache
+D:\Projects\VB Projects\Calcu\obj\Debug\Calcu.exe
+D:\Projects\VB Projects\Calcu\obj\Debug\Calcu.xml
+D:\Projects\VB Projects\Calcu\obj\Debug\Calcu.pdb
